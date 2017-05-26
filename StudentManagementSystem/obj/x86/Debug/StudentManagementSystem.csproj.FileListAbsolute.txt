@@ -1,0 +1,38 @@
+D:\StudentManagementSystem\StudentManagementSystem\obj\x86\Debug\StudentManagementSystem.exe
+D:\StudentManagementSystem\StudentManagementSystem\obj\x86\Debug\StudentManagementSystem.pdb
+D:\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe
+D:\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.pdb
+D:\StudentManagementSystem\StudentManagementSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\StudentManagementSystem\StudentManagementSystem\obj\x86\Debug\StudentManagementSystem.AddStudent.resources
+D:\StudentManagementSystem\StudentManagementSystem\obj\x86\Debug\StudentManagementSystem.AddUser.resources
+D:\StudentManagementSystem\StudentManagementSystem\obj\x86\Debug\StudentManagementSystem.ADMIN.resources
+D:\StudentManagementSystem\StudentManagementSystem\obj\x86\Debug\StudentManagementSystem.ChangePassword.resources
+D:\StudentManagementSystem\StudentManagementSystem\obj\x86\Debug\StudentManagementSystem.ChangeSelfPassword.resources
+D:\StudentManagementSystem\StudentManagementSystem\obj\x86\Debug\StudentManagementSystem.DeleteUser.resources
+D:\StudentManagementSystem\StudentManagementSystem\obj\x86\Debug\StudentManagementSystem.Login.resources
+D:\StudentManagementSystem\StudentManagementSystem\obj\x86\Debug\StudentManagementSystem.Properties.Resources.resources
+D:\StudentManagementSystem\StudentManagementSystem\obj\x86\Debug\StudentManagementSystem.SearchData.resources
+D:\StudentManagementSystem\StudentManagementSystem\obj\x86\Debug\StudentManagementSystem.USER.resources
+D:\StudentManagementSystem\StudentManagementSystem\obj\x86\Debug\StudentManagementSystem.View.resources
+D:\StudentManagementSystem\StudentManagementSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\StudentManagementSystem\StudentManagementSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Project\2 KIET Project\StudentManagementSystem\StudentManagementSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\2 KIET Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.exe
+D:\Project\2 KIET Project\StudentManagementSystem\StudentManagementSystem\bin\Debug\StudentManagementSystem.pdb
+D:\Project\2 KIET Project\StudentManagementSystem\StudentManagementSystem\obj\x86\Debug\StudentManagementSystem.csproj.ResolveComReference.cache
+D:\Project\2 KIET Project\StudentManagementSystem\StudentManagementSystem\obj\x86\Debug\StudentManagementSystem.AddStudent.resources
+D:\Project\2 KIET Project\StudentManagementSystem\StudentManagementSystem\obj\x86\Debug\StudentManagementSystem.AddUser.resources
+D:\Project\2 KIET Project\StudentManagementSystem\StudentManagementSystem\obj\x86\Debug\StudentManagementSystem.ADMIN.resources
+D:\Project\2 KIET Project\StudentManagementSystem\StudentManagementSystem\obj\x86\Debug\StudentManagementSystem.ChangePassword.resources
+D:\Project\2 KIET Project\StudentManagementSystem\StudentManagementSystem\obj\x86\Debug\StudentManagementSystem.ChangeSelfPassword.resources
+D:\Project\2 KIET Project\StudentManagementSystem\StudentManagementSystem\obj\x86\Debug\StudentManagementSystem.Configure.resources
+D:\Project\2 KIET Project\StudentManagementSystem\StudentManagementSystem\obj\x86\Debug\StudentManagementSystem.DeleteUser.resources
+D:\Project\2 KIET Project\StudentManagementSystem\StudentManagementSystem\obj\x86\Debug\StudentManagementSystem.Login.resources
+D:\Project\2 KIET Project\StudentManagementSystem\StudentManagementSystem\obj\x86\Debug\StudentManagementSystem.Properties.Resources.resources
+D:\Project\2 KIET Project\StudentManagementSystem\StudentManagementSystem\obj\x86\Debug\StudentManagementSystem.SearchData.resources
+D:\Project\2 KIET Project\StudentManagementSystem\StudentManagementSystem\obj\x86\Debug\StudentManagementSystem.USER.resources
+D:\Project\2 KIET Project\StudentManagementSystem\StudentManagementSystem\obj\x86\Debug\StudentManagementSystem.View.resources
+D:\Project\2 KIET Project\StudentManagementSystem\StudentManagementSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Project\2 KIET Project\StudentManagementSystem\StudentManagementSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Project\2 KIET Project\StudentManagementSystem\StudentManagementSystem\obj\x86\Debug\StudentManagementSystem.exe
+D:\Project\2 KIET Project\StudentManagementSystem\StudentManagementSystem\obj\x86\Debug\StudentManagementSystem.pdb

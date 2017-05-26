@@ -1,0 +1,3 @@
+
+6/2/2012 12:02:13 PM	 : Violation of PRIMARY KEY constraint 'PK__Basic__7886D5A0526429B0'. Cannot insert duplicate key in object 'dbo.Basic'.
+The statement has been terminated.
